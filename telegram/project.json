@@ -1,0 +1,10 @@
+{
+  "name": "gpswatch",
+  "description": "GPSWatch bot",
+  "memory": 128,
+  "timeout": 30,
+  "role": "arn:aws:iam::120982526309:role/gpswatch",
+  "environment": {},
+  "runtime" : "python2.7",
+  "handler": "_apex_main.handler"
+}

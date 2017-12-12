@@ -1,0 +1,7 @@
+aiobotocore
+telepot
+arrow
+six
+cached_property
+gpxpy
+requests

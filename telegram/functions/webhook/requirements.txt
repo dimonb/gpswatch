@@ -1,0 +1,8 @@
+botocore
+telepot
+arrow
+six
+cached_property
+gpxpy
+requests
+ffmpy

@@ -1,0 +1,6 @@
+__pycache__
+.venv
+*.pyc
+*.log*
+RECOVERED_FILES
+*.swp

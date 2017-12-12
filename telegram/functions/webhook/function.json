@@ -1,0 +1,6 @@
+{
+  "description": "GPS Watch telegram webhook",
+  "hooks": {
+    "build": "virtualenv -p python2.7 .venv && .venv/bin/pip install -r requirements.txt"
+  }
+}
